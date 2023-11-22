@@ -4,8 +4,8 @@ A bike-sharing system is a service in which bikes are made available for shared 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 * [Contacts](#contacts)
 
